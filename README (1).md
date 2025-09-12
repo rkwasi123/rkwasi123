@@ -19,6 +19,18 @@ Analyzed user behavior and adoption trends using SQL and Power BI to identify op
 
 ### 🏥 Emergency Room Visits Dashboard
 Interactive Tableau dashboard to analyze ER visit data, track key metrics like patient demographics, wait times, satisfaction scores, and referral patterns.
+I used Tableau Desktop to build this interactive Emergency Visits Dashboard below is the step I used:
+
+
+Developed an interactive dashboard to analyze and visualize emergency room visit data for a healthcare provider, using demographic and operational insights.
+
+Utilized data visualization tools to track key metrics, such as patient demographics (age, race, gender), ER wait times, and satisfaction ratings (average 4.99/10).
+
+Designed a heatmap for identifying peak visit times and patterns by hour and day of the week, enabling staff to optimize resource allocation.
+
+Created actionable insights on department referrals (e.g., General Practice, Orthopedics) to help guide improvements in patient care and reduce wait times (average wait: 35.26 minutes).
+
+Enabled stakeholders to make data-driven decisions on resource management and patient satisfaction improvement strategies.
 
 ---
 
@@ -34,7 +46,7 @@ Interactive Tableau dashboard to analyze ER visit data, track key metrics like p
 
 ## 🎓 Education
 
-- **M.S. in Data Analytics**, Maryville University (In Progress)  
+- **M.S. in Data Analytics**, Maryville University. 
 - **B.S. in Criminal Justice & Criminology**, Arizona State University
 
 ---
