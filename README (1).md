@@ -1,64 +1,74 @@
-# Hi, I'm Raymond 👋
-
-I'm a Business Intelligence Analyst with a passion for transforming raw data into clear, actionable insights.
-
-🔍 I specialize in:
-
-- 📊 **Data Visualization** with Power BI and Tableau  
-- 🧵 **SQL** for querying, reporting, and analysis  
-- 📈 Building dashboards that improve performance tracking and decision-making  
-- 🛠 Turning complex datasets into accessible stories that empower teams  
+"""# 👋 Hi, I'm Raymond Kadzashie
 
 ---
 
-## 🚀 Featured Projects
+## 📌 About Me
 
-### 🧠 Feature Adoption Analysis
-[🔗 View on GitHub](https://github.com/rkwasi123/COLUME-FEATURE-ADOPTION-PROJECT)  
-Analyzed user behavior and adoption trends using SQL and Power BI to identify opportunities for improved product engagement and business process optimization.
+I’m a Business Intelligence Analyst with a strong passion for data storytelling. My goal is to turn complex data into meaningful, actionable insights that help organizations make better decisions.
 
-### 🏥 Emergency Room Visits Dashboard
-Interactive Tableau dashboard to analyze ER visit data, track key metrics like patient demographics, wait times, satisfaction scores, and referral patterns.
-I used Tableau Desktop to build this interactive Emergency Visits Dashboard below is the step I used:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/raymond-kadzashie/)
+[![GitHub Projects](https://img.shields.io/badge/GitHub-Projects-black?logo=github)](https://github.com/rkwasi123?tab=repositories)
+[![Resume](https://img.shields.io/badge/Resume-PDF-orange)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-Web-blueviolet)](https://rkadzash.wixsite.com/raymondsportfolioweb)
 
-
-Developed an interactive dashboard to analyze and visualize emergency room visit data for a healthcare provider, using demographic and operational insights.
-
-Utilized data visualization tools to track key metrics, such as patient demographics (age, race, gender), ER wait times, and satisfaction ratings (average 4.99/10).
-
-Designed a heatmap for identifying peak visit times and patterns by hour and day of the week, enabling staff to optimize resource allocation.
-
-Created actionable insights on department referrals (e.g., General Practice, Orthopedics) to help guide improvements in patient care and reduce wait times (average wait: 35.26 minutes).
-
-Enabled stakeholders to make data-driven decisions on resource management and patient satisfaction improvement strategies.
 
 ---
 
-## 🧰 Tools & Technologies
+## 💼 What I Do
+
+I build dashboards, reports, and analytics tools using Power BI, SQL, Tableau, and Excel.  
+I focus on identifying trends, forecasting performance, and simplifying data for non-technical stakeholders.  
+My work helps organizations improve efficiency, optimize operations, and understand their users.
+
+---
+
+## 🧠 My Approach
+
+I believe in bridging the gap between data and decisions.  
+My approach is:
+- Insight-first: Focus on what the data reveals and how it can improve outcomes.
+- Collaborative: Work closely with stakeholders to understand needs.
+- Iterative: Build, test, refine—always learning and improving.
+
+---
+
+## 🧩 Core Competencies
+
+- Data storytelling and business intelligence
+- Performance tracking and optimization
+- Cross-functional communication
+- Project planning and prioritization
+- Translating business goals into data-driven solutions
+
+---
+
+## 🛠 Technical Skills
 
 - SQL (MySQL, T-SQL)
 - Power BI
 - Tableau
-- Excel (pivot tables, analysis)
+- Excel (pivot tables, data analysis)
 - Microsoft Office Suite
 
 ---
 
-## 🎓 Education
+## 🤝 Soft Skills
 
-- **M.S. in Data Analytics**, Maryville University. 
-- **B.S. in Criminal Justice & Criminology**, Arizona State University
-
----
-
-## 🌐 Links
-
-📁 [Portfolio Website](https://rkadzash.wixsite.com/raymondsportfolioweb)  
-💼 [LinkedIn](https://www.linkedin.com/in/raymond-kadzashie/)  
-📄 Resume available upon request
+- Communication (verbal + written)
+- Time management and organization
+- Analytical thinking and problem-solving
+- Adaptability and continuous learning
+- Collaboration across departments
 
 ---
 
-### 🧠 Fun Fact
+## 📬 Contact Information
 
-I’m deeply curious about how people use technology — and I love building tools that make it easier for them to make smart decisions using data.
+- 💼 [LinkedIn](https://www.linkedin.com/in/raymond-kadzashie/)
+- 🌐 [Portfolio Website](https://rkadzash.wixsite.com/raymondsportfolioweb)
+- 📧 Email: rykadzashie@outlook.com
+
+---
+
+_This portfolio README was built as part of a professional development mentorship program._
+
