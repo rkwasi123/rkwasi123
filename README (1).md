@@ -1,10 +1,10 @@
-"""# 👋 Hi, I'm Raymond Kadzashie
+# 👋 Hi, I'm Raymond Kadzashie
 
 ---
 
 ## 📌 About Me
 
-I’m a Business Intelligence Analyst with a strong passion for data storytelling. My goal is to turn complex data into meaningful, actionable insights that help organizations make better decisions.
+I’m a Business Intelligence/Data Analyst with a strong passion for data storytelling. My goal is to turn complex data into meaningful, actionable insights that help organizations make better decisions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/raymond-kadzashie/)
 [![GitHub Projects](https://img.shields.io/badge/GitHub-Projects-black?logo=github)](https://github.com/rkwasi123?tab=repositories)
